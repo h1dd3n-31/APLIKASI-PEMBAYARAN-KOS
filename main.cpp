@@ -18,7 +18,7 @@ int main(){
     cout<<"                            APLIKASI PEMBAYARAN KOS                         "<<endl;
     cout<<"                  KELOMPOK TIGA MATA KULIAN PEMOGRAMAN LANJUT               "<<endl;
     cout<<"                      { Akbar Usamah } { Ahmad Ariansyah }                  "<<endl;
-    cout<<"                    { Muhammad Najmi} { Prasetyo adi wibowo}                "<<endl;
+    cout<<"                    { Muhammad Najmi} { Prasetyo adi wibow}                "<<endl;
     cout<<"                                                                            "<<endl;
     cout<<" _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _"<<endl<<endl;
     
